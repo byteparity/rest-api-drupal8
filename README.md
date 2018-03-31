@@ -15,3 +15,5 @@ curl -X GET \
   -H 'Content-Type: application/json' \
   -H 'Postman-Token: 6ee8e333-561c-4dd0-b24b-d9fbe5fdd73e' \
   -H 'user: admin:admin'
+  
+ Referred: https://www.drupal.org/docs/8/api/restful-web-services-api/custom-rest-resources
