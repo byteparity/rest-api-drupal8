@@ -1,7 +1,7 @@
 # rest-api-drupal8
 Demo REST api module drupal 8
 
-This module uses basic_auth authentication module to access api resource.
+This module uses basic_auth (drupal user/password) authentication module to access api resource. Creates an api resource http://yourdrupalhost.com/api/demo_resource?_format=json
 
 Copy this module to your/drupal/installation/modules directory.
 Enable the module.
